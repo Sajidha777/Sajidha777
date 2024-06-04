@@ -3,11 +3,11 @@
 I'm here diving into Data Science and beyond. Learning🌱 Exploring🛸 Creating👩‍💻. Is data cool!! 🤩 📈
 
 Check out some of my works here:
--⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
--⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
--⭐  [Bank Churn Prediction](https://github.com/Sajidha777/Afame-Technologies)
--⭐  [Cyberbullying Tweet Analysis](https://github.com/Sajidha777/Cyber-Bullying-tweet-analysis)
--⭐  [E-commerce Website with Django](https://github.com/Sajidha777/projVI)
+- ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
+- ⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
+- ⭐  [Bank Churn Prediction](https://github.com/Sajidha777/Afame-Technologies)
+- ⭐  [Cyberbullying Tweet Analysis](https://github.com/Sajidha777/Cyber-Bullying-tweet-analysis)
+- ⭐  [E-commerce Website with Django](https://github.com/Sajidha777/projVI)
 <!--
 **Sajidha777/Sajidha777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
