@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-I'm here diving into Data Science and beyond. Learning🌱 Exploring🛸 Creating👩‍💻. Is data cool!! 🤩 📈
+I'm here diving into Data Science, AI and beyond. Learning🌱 Exploring🛸 Creating👩‍💻.
 
 Check out some of my works here:
 - ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
