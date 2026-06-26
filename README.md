@@ -3,6 +3,8 @@
 - ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
 - ⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
 - ⭐  [Bank Churn Prediction](https://github.com/Sajidha777/Afame-Technologies)
+
+Learning🌱 Exploring🛸 Creating👩‍💻.
 <!--
 **Sajidha777/Sajidha777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
