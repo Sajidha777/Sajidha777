@@ -1,4 +1,5 @@
-- ⭐  [Voice Android - Social Platform](https://github.com/icebottle-gh/voice-android)
+- ⭐  [_Voice_ Social Platform-Design-Figma](https://shorturl.at/q0B0m)
+- ⭐  [_Voice_ Android - Social Platform](https://github.com/icebottle-gh/voice-android)
 - ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
 - ⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
 - ⭐  [Bank Churn Prediction](https://github.com/Sajidha777/Afame-Technologies)
