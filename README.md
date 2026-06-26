@@ -1,4 +1,4 @@
-- ⭐  [_Voice_ Social Platform-Design-Figma](https://shorturl.at/q0B0m)
+- ⭐  [_Voice_ Social Platform-Design-Figma](https://www.figma.com/design/FKVFr1mdKuPiobSJ0qeFE6/VP25?node-id=31-240&t=Bscw0Ue8yT1dIFLz-1)
 - ⭐  [_Voice_ Android - Social Platform](https://github.com/icebottle-gh/voice-android)
 - ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
 - ⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
