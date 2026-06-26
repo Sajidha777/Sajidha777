@@ -1,8 +1,3 @@
-## Hi there 👋
- 
-I'm here diving into Data Science, AI and beyond. Learning🌱 Exploring🛸 Creating👩‍💻.
-
-Check out some of my works here:
 - ⭐  [Clone Voice Detection](https://github.com/Sajidha777/clone-voice-detection)
 - ⭐  [Book Recommendation System](https://github.com/Sajidha777/Book-Recommendation-System)
 - ⭐  [Bank Churn Prediction](https://github.com/Sajidha777/Afame-Technologies)
